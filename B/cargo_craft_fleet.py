@@ -10,7 +10,7 @@ def calculate_fleet_capacity(n):
 
     Returns:
         dict | int: A dictionary with 'maximum_capacity' and 'minimum_capacity'
-        if n is divisible by 4, 6, or 10; otherwise -1.
+        if n is less than 4 or odd return -1.
     """
     
     if n < 4 or n % 2 != 0:
