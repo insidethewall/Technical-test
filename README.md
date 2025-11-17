@@ -123,10 +123,11 @@ this login page is a simple FontEnd template built with the [React framework](ht
 
 ## Getting started
 
-First, go to C folder and run the server:
+First, go to C folder, install dependencies (only needed the first time) and run the server:
 
 ```
 cd C
+npm install
 npm run dev
 ```
 
