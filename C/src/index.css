@@ -28,4 +28,7 @@
   --color-darkBlueBackGround: #160430;
   --color-brand-primary: #501794;
   --color-brand-accent: #3e70a1;
+
+  /* font */
+  --font-login: "Poppins", system-ui, sans-serif;
 }
